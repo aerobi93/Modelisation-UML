@@ -6,5 +6,36 @@ Nous avons décider d'utiliser ce diagramme car il sert à modéliser à **QUOI*
 
 ## Explication du diagramme
 
+Nous avons en acteurs :
+- l'utilisateur.
+- le moderateur.
+
+Nous avons en système : 
+- le site Cuistonaute.
+
+L'utilisateur peut sans avoir de compte:
+- rechercher une recette.
+- trier les recettes.
+- Changer la composition de la recette en fonction du nombre de personnes
+- voir le profil des autres utilisateurs par le biais de commentaire ou auteur d'une recette.
+- gèrer le nombre de résultat des recettes par page.
+- s'inscrire à la newletter.
+- changer le thème.
+- créer un compte.
+
+Lutilisateur peut en ayant un compte :
+- se connecter.
+- modifier les paramétres de son comptes.
+- supprimer son compte.
+- créer des nouvelles recettes et la gèrer.
+- possibilité de faire des commentaires et les gérer.
+- enregistrer ses préférences culinaires.
+- enregistrer une recette en favoris.
+
+Le modérateur peut : 
+- Modérer les recettes.
+- Modérer les commentaires.
+- Supprimer un compte utilisateur.
+- possibilité de faire remonter des informations aux services adéquats(ex: police).
 
 ## Image du diagramme
