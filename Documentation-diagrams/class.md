@@ -6,5 +6,60 @@ Nous avons décider d'utiliser ce diagramme car il permet de spécifier la struc
 
 ## Explication du diagramme
 
+Class utilisateur(account) : 
+- id
+- pseudo
+- avatar
+- nom
+- prénom
+- date de naissance
+- email
+- rôle
+
+Class recette : 
+- id
+- nom
+- description
+- note
+- image
+- nombre de personnes
+
+Class unité : 
+- id
+- nom
+
+Class ingrédients :
+- id
+- nom
+
+Class diet :
+- id
+- name
+
+Class pays : 
+- id
+- name
+
+Class saison : 
+- id
+- name
+
+Class commentaire : 
+- id
+- commentaire
+
+Class favori :
+- id
+
+Class newletter
+- id
+- photo
+- date
+- contenu
+- titre
+
+Class quantité :
+- id
+- number
 
 ## Image du diagramme

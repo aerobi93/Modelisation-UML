@@ -7,7 +7,7 @@ Nous avons décider d'utiliser ce diagramme car il sert à modéliser à **QUOI*
 ## Explication du diagramme
 
 Nous avons en acteurs :
-- l'utilisateur.
+- l'utilisateur(possède un compte).
 - le moderateur.
 
 Nous avons en système : 
@@ -21,9 +21,6 @@ L'utilisateur peut sans avoir de compte:
 - gèrer le nombre de résultat des recettes par page.
 - s'inscrire à la newletter.
 - changer le thème.
-- créer un compte.
-
-Lutilisateur peut en ayant un compte :
 - se connecter.
 - modifier les paramétres de son comptes.
 - supprimer son compte.
