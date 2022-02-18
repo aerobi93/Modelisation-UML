@@ -41,10 +41,6 @@ Class pays :
 - id
 - name
 
-Class saison : 
-- id
-- name
-
 Class commentaire : 
 - id
 - commentaire
@@ -64,3 +60,5 @@ Class quantité :
 - number
 
 ## Image du diagramme
+
+<img src="./diagrams-img/Class Diagram.png">
