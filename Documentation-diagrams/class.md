@@ -20,6 +20,7 @@ Class recette :
 - id
 - nom
 - description
+- déroulement
 - note
 - image
 - nombre de personnes

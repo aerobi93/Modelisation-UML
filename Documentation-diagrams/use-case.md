@@ -15,8 +15,8 @@ Nous avons en système :
 
 L'utilisateur peut sans avoir de compte:
 - rechercher une recette.
-- trier les recettes.
-- Changer la composition de la recette en fonction du nombre de personnes
+- trier (avec enregistrement) les recettes.
+- Adapter la composition de la recette en fonction du nombre de personnes
 - voir le profil des autres utilisateurs par le biais de commentaire ou auteur d'une recette.
 - gèrer le nombre de résultat des recettes par page.
 - s'inscrire à la newletter.
