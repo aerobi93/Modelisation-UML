@@ -37,4 +37,4 @@ Le modérateur peut :
 
 ## Image du diagramme
 
-<img src="./diagrams-img/Use Case Diagram.png">
+<img src="./diagrams-img/usecaseDiagram.png">
