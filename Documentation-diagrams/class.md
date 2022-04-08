@@ -61,4 +61,4 @@ Class quantité :
 
 ## Image du diagramme
 
-<img src="./diagrams-img/Class Diagram.png">
+<img src="./diagrams-img/classDiagram.png">
