@@ -36,3 +36,5 @@ Le modérateur peut :
 - possibilité de faire remonter des informations aux services adéquats(ex: police).
 
 ## Image du diagramme
+
+<img src="./diagrams-img/usecaseDiagram.png">
