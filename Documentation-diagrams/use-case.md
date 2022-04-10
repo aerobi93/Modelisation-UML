@@ -36,5 +36,6 @@ Le modérateur peut :
 - possibilité de faire remonter des informations aux services adéquats(ex: police).
 
 ## Image du diagramme
+ * Usecase diagram: 
 
-<img src="./diagrams-img/usecaseDiagram.png">
+  ![Usecase diagram](./diagrams-img/usecaseDiagram.png "Usecase diagram")
