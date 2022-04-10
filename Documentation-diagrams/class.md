@@ -7,58 +7,63 @@ Nous avons décider d'utiliser ce diagramme car il permet de spécifier la struc
 ## Explication du diagramme
 
 Class utilisateur(account) : 
-- id
+- uuid
 - pseudo
-- avatar
 - nom
 - prénom
 - date de naissance
+- avatar
 - email
+- password
 - rôle
+- favoris
+- diets
+- newsletter
 
 Class recette : 
-- id
+- uuid
 - nom
 - description
-- déroulement
-- note
+- score
 - image
 - nombre de personnes
 
-Class unité : 
-- id
-- nom
-
 Class ingrédients :
-- id
+- uuid
+- nom
+- quantité
+- types
+
+Class mesures : 
+- uuid
+- unités
+
+Class types : 
+- uuid
 - nom
 
-Class diet :
-- id
-- name
+Class instructions : 
+- uuid
+- étapes
 
-Class pays : 
-- id
-- name
+Class fêtes :
+- uuid
+- nom
 
-Class commentaire : 
-- id
-- commentaire
-
-Class favori :
-- id
-
-Class newletter
-- id
-- photo
+Class commentaires : 
+- uuid
+- commentaires
 - date
-- contenu
-- titre
 
-Class quantité :
-- id
-- number
+Class newsletter :
+- uuid
+- titre
+- contenu
+- date
+
 
 ## Image du diagramme
 
-<img src="./diagrams-img/Class Diagram.png">
+Class diagram:
+
+  ![Class diagram](./diagrams-img/classDiagram.png "Class diagram")
